@@ -1,4 +1,4 @@
-<img width="1413" height="608" alt="Screenshot 2026-10-23 224557" src="https://github.com/user-attachments/assets/04dbaddc-8cd6-4988-99bf-f6a5411bf1f8" />
+
 # Handwritten Digit Recognition with CNN
 
 A Convolutional Neural Network that recognizes handwritten digits (0–9).
@@ -11,6 +11,7 @@ A Convolutional Neural Network that recognizes handwritten digits (0–9).
 ## Results
 - Test accuracy: **99.09%**
 - Custom hand-drawn "2" → predicted **2** with 97.4% confidence
+- <img width="1413" height="608" alt="Screenshot 2026-10-23 224557" src="https://github.com/user-attachments/assets/04dbaddc-8cd6-4988-99bf-f6a5411bf1f8" />
 
 ## Model
 - 2 × Conv2D + MaxPooling layers
